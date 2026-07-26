@@ -1,3 +1,4 @@
+<img src="baner1.png" width="100%">
 <h1 align="center">Hi 👋, I'm Erfan</h1>
 <h3 align="center">Machine Learning Enthusiast | Exploring AI, Data Science, and Deep Learning from Iran</h3>
 <img align ="right" alt ="erfan" width ="400"  src = "https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif ">
